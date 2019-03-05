@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Bem vindo ao Segundo Slide!"
+title: "Welcome to our second slide!"
 ---
-Agora em PT-BR!!!!
-Use a seta da esquerda para voltar!
+Your text
+Use the left arrow to go back!
